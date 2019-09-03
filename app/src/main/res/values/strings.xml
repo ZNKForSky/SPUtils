@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SPUtils</string>
+    <string name="string_account_psw_nonullabled">账号和密码均不能为空</string>
+    <string name="username">请输入用户名</string>
+    <string name="password">请输入登录密码</string>
+    <string name="string_sava_account_psw">记住账号和密码</string>
+    <string name="string_login">登录</string>
+</resources>
